@@ -103,4 +103,154 @@ For generating fonts you need to install geomerative & fontastic
 
 ## Font examples:
 
+![alt f10r1.jpg](https://github.com/alexadam/processing/blob/master/results/f10r1.jpg?raw=true)
+
+![alt f10r2.jpg](https://github.com/alexadam/processing/blob/master/results/f10r2.jpg?raw=true)
+
+![alt f10r3.jpg](https://github.com/alexadam/processing/blob/master/results/f10r3.jpg?raw=true)
+
+![alt f10r4.jpg](https://github.com/alexadam/processing/blob/master/results/f10r4.jpg?raw=true)
+
+![alt f10r5.jpg](https://github.com/alexadam/processing/blob/master/results/f10r5.jpg?raw=true)
+
+![alt f11r1.jpg](https://github.com/alexadam/processing/blob/master/results/f11r1.jpg?raw=true)
+
+![alt f11r2.jpg](https://github.com/alexadam/processing/blob/master/results/f11r2.jpg?raw=true)
+
+![alt f11r3.jpg](https://github.com/alexadam/processing/blob/master/results/f11r3.jpg?raw=true)
+
+![alt f11r4.jpg](https://github.com/alexadam/processing/blob/master/results/f11r4.jpg?raw=true)
+
+![alt f12r1.jpg](https://github.com/alexadam/processing/blob/master/results/f12r1.jpg?raw=true)
+
+![alt f12r2.jpg](https://github.com/alexadam/processing/blob/master/results/f12r2.jpg?raw=true)
+
+![alt f12r3.jpg](https://github.com/alexadam/processing/blob/master/results/f12r3.jpg?raw=true)
+
+![alt f12r4.jpg](https://github.com/alexadam/processing/blob/master/results/f12r4.jpg?raw=true)
+
+![alt f12r5.jpg](https://github.com/alexadam/processing/blob/master/results/f12r5.jpg?raw=true)
+
+![alt f12r6.jpg](https://github.com/alexadam/processing/blob/master/results/f12r6.jpg?raw=true)
+
+![alt f13r1.jpg](https://github.com/alexadam/processing/blob/master/results/f13r1.jpg?raw=true)
+
+![alt f13r2.jpg](https://github.com/alexadam/processing/blob/master/results/f13r2.jpg?raw=true)
+
+![alt f13r3.jpg](https://github.com/alexadam/processing/blob/master/results/f13r3.jpg?raw=true)
+
+![alt f13r4.jpg](https://github.com/alexadam/processing/blob/master/results/f13r4.jpg?raw=true)
+
+![alt f1r1-1.jpg](https://github.com/alexadam/processing/blob/master/results/f1r1-1.jpg?raw=true)
+
+![alt f1r1.jpg](https://github.com/alexadam/processing/blob/master/results/f1r1.jpg?raw=true)
+
+![alt f1r2-1.jpg](https://github.com/alexadam/processing/blob/master/results/f1r2-1.jpg?raw=true)
+
+![alt f1r2.jpg](https://github.com/alexadam/processing/blob/master/results/f1r2.jpg?raw=true)
+
+![alt f2r1-1.jpg](https://github.com/alexadam/processing/blob/master/results/f2r1-1.jpg?raw=true)
+
+![alt f2r1-2.jpg](https://github.com/alexadam/processing/blob/master/results/f2r1-2.jpg?raw=true)
+
+![alt f2r1-3-bigger-segment-length.jpg](https://github.com/alexadam/processing/blob/master/results/f2r1-3-bigger-segment-length.jpg?raw=true)
+
+![alt f2r1-3.jpg](https://github.com/alexadam/processing/blob/master/results/f2r1-3.jpg?raw=true)
+
+![alt f2r1-4-bigger-segment-length.jpg](https://github.com/alexadam/processing/blob/master/results/f2r1-4-bigger-segment-length.jpg?raw=true)
+
+![alt f2r1.jpg](https://github.com/alexadam/processing/blob/master/results/f2r1.jpg?raw=true)
+
+![alt f2r2-2.jpg](https://github.com/alexadam/processing/blob/master/results/f2r2-2.jpg?raw=true)
+
+![alt f2r2.jpg](https://github.com/alexadam/processing/blob/master/results/f2r2.jpg?raw=true)
+
+![alt f3r1-1.jpg](https://github.com/alexadam/processing/blob/master/results/f3r1-1.jpg?raw=true)
+
+![alt f3r1-2-bigger-segment-length.jpg](https://github.com/alexadam/processing/blob/master/results/f3r1-2-bigger-segment-length.jpg?raw=true)
+
+![alt f3r1.jpg](https://github.com/alexadam/processing/blob/master/results/f3r1.jpg?raw=true)
+
+![alt f3r2-1.jpg](https://github.com/alexadam/processing/blob/master/results/f3r2-1.jpg?raw=true)
+
+![alt f3r2.jpg](https://github.com/alexadam/processing/blob/master/results/f3r2.jpg?raw=true)
+
+![alt f4r1-1.jpg](https://github.com/alexadam/processing/blob/master/results/f4r1-1.jpg?raw=true)
+
+![alt f4r1-2.jpg](https://github.com/alexadam/processing/blob/master/results/f4r1-2.jpg?raw=true)
+
+![alt f4r1-3.jpg](https://github.com/alexadam/processing/blob/master/results/f4r1-3.jpg?raw=true)
+
+![alt f4r1.jpg](https://github.com/alexadam/processing/blob/master/results/f4r1.jpg?raw=true)
+
+![alt f4r2-1.jpg](https://github.com/alexadam/processing/blob/master/results/f4r2-1.jpg?raw=true)
+
+![alt f4r2.jpg](https://github.com/alexadam/processing/blob/master/results/f4r2.jpg?raw=true)
+
+![alt f5r1-1.jpg](https://github.com/alexadam/processing/blob/master/results/f5r1-1.jpg?raw=true)
+
+![alt f5r1-2.jpg](https://github.com/alexadam/processing/blob/master/results/f5r1-2.jpg?raw=true)
+
+![alt f5r1-3.jpg](https://github.com/alexadam/processing/blob/master/results/f5r1-3.jpg?raw=true)
+
+![alt f5r1.jpg](https://github.com/alexadam/processing/blob/master/results/f5r1.jpg?raw=true)
+
+![alt f5r2-1.jpg](https://github.com/alexadam/processing/blob/master/results/f5r2-1.jpg?raw=true)
+
+![alt f5r2-2.jpg](https://github.com/alexadam/processing/blob/master/results/f5r2-2.jpg?raw=true)
+
+![alt f5r2.jpg](https://github.com/alexadam/processing/blob/master/results/f5r2.jpg?raw=true)
+
+![alt f6r1-1.jpg](https://github.com/alexadam/processing/blob/master/results/f6r1-1.jpg?raw=true)
+
+![alt f6r1.jpg](https://github.com/alexadam/processing/blob/master/results/f6r1.jpg?raw=true)
+
+![alt f6r2-1.jpg](https://github.com/alexadam/processing/blob/master/results/f6r2-1.jpg?raw=true)
+
+![alt f6r2.jpg](https://github.com/alexadam/processing/blob/master/results/f6r2.jpg?raw=true)
+
+![alt f6r3-1.jpg](https://github.com/alexadam/processing/blob/master/results/f6r3-1.jpg?raw=true)
+
+![alt f6r3.jpg](https://github.com/alexadam/processing/blob/master/results/f6r3.jpg?raw=true)
+
+![alt f6r4-1.jpg](https://github.com/alexadam/processing/blob/master/results/f6r4-1.jpg?raw=true)
+
+![alt f6r4.jpg](https://github.com/alexadam/processing/blob/master/results/f6r4.jpg?raw=true)
+
+![alt f6r5-1.jpg](https://github.com/alexadam/processing/blob/master/results/f6r5-1.jpg?raw=true)
+
+![alt f6r5.jpg](https://github.com/alexadam/processing/blob/master/results/f6r5.jpg?raw=true)
+
+![alt f7r1.jpg](https://github.com/alexadam/processing/blob/master/results/f7r1.jpg?raw=true)
+
+![alt f7r2.jpg](https://github.com/alexadam/processing/blob/master/results/f7r2.jpg?raw=true)
+
+![alt f7r3.jpg](https://github.com/alexadam/processing/blob/master/results/f7r3.jpg?raw=true)
+
+![alt f7r4.jpg](https://github.com/alexadam/processing/blob/master/results/f7r4.jpg?raw=true)
+
+![alt f8r1.jpg](https://github.com/alexadam/processing/blob/master/results/f8r1.jpg?raw=true)
+
+![alt f8r2.jpg](https://github.com/alexadam/processing/blob/master/results/f8r2.jpg?raw=true)
+
+![alt f8r3.jpg](https://github.com/alexadam/processing/blob/master/results/f8r3.jpg?raw=true)
+
+![alt f8r4.jpg](https://github.com/alexadam/processing/blob/master/results/f8r4.jpg?raw=true)
+
+![alt f8r5.jpg](https://github.com/alexadam/processing/blob/master/results/f8r5.jpg?raw=true)
+
+![alt f8r6.jpg](https://github.com/alexadam/processing/blob/master/results/f8r6.jpg?raw=true)
+
+![alt f9r1.jpg](https://github.com/alexadam/processing/blob/master/results/f9r1.jpg?raw=true)
+
+![alt f9r2.jpg](https://github.com/alexadam/processing/blob/master/results/f9r2.jpg?raw=true)
+
+![alt f9r3.jpg](https://github.com/alexadam/processing/blob/master/results/f9r3.jpg?raw=true)
+
+![alt f9r4.jpg](https://github.com/alexadam/processing/blob/master/results/f9r4.jpg?raw=true)
+
+![alt f9r5.jpg](https://github.com/alexadam/processing/blob/master/results/f9r5.jpg?raw=true)
+
+
+
 
